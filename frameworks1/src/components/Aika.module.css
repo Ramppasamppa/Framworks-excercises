@@ -1,0 +1,10 @@
+.container{
+    height: 40px;
+    width: 640px;
+    color: white;
+}
+
+.brand{
+    color: black;
+    font-size: 12px;
+}
